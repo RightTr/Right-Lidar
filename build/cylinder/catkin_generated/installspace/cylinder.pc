@@ -1,0 +1,8 @@
+prefix=/home/right/ros_noetic/lidar25_nodes/install
+
+Name: cylinder
+Description: Description of cylinder
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

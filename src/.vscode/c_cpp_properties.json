@@ -1,0 +1,25 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "${default}",
+                "limitSymbolsToIncludedHeaders": false
+            },
+            "includePath": [
+                "/home/right/ros_noetic/livox_ws/devel/include/**",
+                "/opt/ros/noetic/include/**",
+                "/home/right/ros_noetic/lidar25_nodes/src/filter/include/**",
+                "/opt/ros/noetic/share/octomap_msgs/include/**",
+                "/home/right/ros_noetic/livox_ws/src/Point-LIO/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "gnu11",
+            "cppStandard": "c++14",
+            "compileCommands": "/home/right/ros_noetic/lidar25_nodes/src/build/compile_commands.json"
+        }
+    ],
+    "version": 4
+}

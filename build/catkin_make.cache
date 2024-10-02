@@ -1,0 +1,2 @@
+cylinder:filter
+-DCMAKE_BUILD_TYPE=RelWithDebInfo -DCATKIN_DEVEL_PREFIX=/home/right/ros_noetic/lidar25_nodes/devel -DCMAKE_INSTALL_PREFIX=/home/right/ros_noetic/lidar25_nodes/install -G Unix Makefiles
